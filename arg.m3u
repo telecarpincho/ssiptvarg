@@ -670,21 +670,21 @@ http://206.62.161.192:8000/play/a0g1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO
-http://143.0.67.77:8000/play/a06o/index.m3u8
+http://201.217.246.177:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO 2
 http://138.121.114.50:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Plus
-http://143.0.67.77:8000/play/a06p/index.m3u8
+http://201.217.246.177:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Family
-http://138.121.114.50:8000/play/a0b5/index.m3u8
+http://201.217.246.177:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Pop
 http://201.217.246.177:8000/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Xtreme
-http://143.0.67.77:8000/play/a02b/index.m3u8
+http://201.217.246.177:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO-UNIVERSAL", HBO Mundi
-http://143.0.67.77:8000/play/a02a/index.m3u8
+http://201.217.246.177:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO-UNIVERSAL", HBO Signature
-http://138.121.114.50:8000/play/a02c/index.m3u8
+http://201.217.246.177:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Premiere
 http://190.60.40.37:8001/play/a097
