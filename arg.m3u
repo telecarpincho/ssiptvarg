@@ -2098,7 +2098,7 @@ http://181.10.181.101:15001/play/a0da/index.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/182lIA0RwU35mgnPDd0dCdQMqIUSmyfNyJFBPyWBi6ZoGfPi-sxF5sY09riVLaZG7DhP" group-title="SALTA", CANAL 7 SALTA
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA", MILENIUM TV SALTA
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
@@ -2113,7 +2113,7 @@ https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/NHJdkdfzFdG_4OgQSvc6ChroJ29lfWZ0smY6GaVpMk_-0iaJAuRxqGmqAv080kQjDXzstzI4=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SALTA", MOSCONI TV
-https://panel.host-live.com:19360/8126/8126.m3u8
+https://vivo.solumedia.com:19360/mosconitv/mosconitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" group-title="SALTA", SPACIO TV METAN SALTA
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
