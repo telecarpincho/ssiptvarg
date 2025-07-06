@@ -2227,7 +2227,7 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 https://stream.arcast.tv:8443/infomedia/infomedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kG6yC0lL_Ee7edK_ntQQ8hk9d6L9FT2ykw&s" group-title="SANTA CRUZ", ZN NOTICIAS
-https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/chunklist_w621301202.m3u8
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?hls_ctx=h36w3789
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXjlBi3kRhUbIfhKFnSL77ss_c6dYL53DdAcL8wKYvuvo7uI7HEkl7u37VdRygsf9ERI&usqp=CAU" group-title="SANTA CRUZ", CROSSING TV RIO GALLEGOS
 https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8
