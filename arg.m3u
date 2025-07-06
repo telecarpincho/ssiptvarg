@@ -2490,14 +2490,6 @@ https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://logo.com/logo.png"  group-title="URUGUAY", Canal 4 
-https://bigboss.bemtv.cn/STREAM/23443/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://logo.com/logo.png"  group-title="URUGUAY", Canal 10 
-https://bigboss.bemtv.cn/STREAM/23444/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://logo.com/logo.png"  group-title="URUGUAY", La Tele 
-https://bigboss.bemtv.cn/STREAM/23445/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/s1152/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", TVF FLORIDA UY
 https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
