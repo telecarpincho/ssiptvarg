@@ -591,10 +591,10 @@ http://200.60.124.19:29000/play/a01p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR 
-http://200.115.120.1:8000/play/ca024/index.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", France 24 ESPAÑOL
-http://200.121.48.17:8000/play/a05a/index.m3u8
+http://200.229.147.210:8000/play/a039/index.m3u8
  
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -611,7 +611,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="NOTICIAS INTERNACIONAL", GALICIA TV
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="NOTICIAS INTERNACIONAL",3/24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="NOTICIAS INTERNACIONAL", 3/24
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL", TV Perú Noticias
@@ -637,9 +637,6 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , NHK World Japon
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Nippon News TV Japon
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NB_eR3rXbLlV-4o0iReSjJEafKBonOwze9FkzHVCfRUxDWO1sSJASibkIpCEsFOpA0Pb4vpq=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", ADN 40 MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -2808,9 +2805,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/ESBC1700002IM_20220511T011722.png" group-title="CURIOSIDAD", Televisión Consciente
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" group-title="NOTICIAS INTERNACIONAL", El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC1400001L8_20221109T010708.png" group-title="NOTICIAS INTERNACIONAL", El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=samsung.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
