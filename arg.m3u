@@ -73,10 +73,10 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
-http://200.55.244.75:8000/play/a078/index.m3u8
+http://138.121.114.50:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
-http://200.55.244.75:8000/play/a0bc/index.m3u8
+http://138.121.114.50:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
 http://186.148.196.82:8001/play/a00p
