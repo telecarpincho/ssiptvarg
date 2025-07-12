@@ -1040,7 +1040,8 @@ http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
 
 
-
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/8E23V1caJanlmzrpr/60x60" group-title="PCIA BS AS", UNMDP TV
+http://belami.top/test/Dailymotion/DaylimotionLIVE.php?ch=x7kvvgi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
